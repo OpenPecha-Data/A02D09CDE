@@ -1,0 +1,25 @@
+segment_sources:
+  I774A6D74:
+    type: origin_type
+    relation: translation
+    language: en
+  I071D0793:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  624ce0f0e5b5499a8b776ca4a37b011c:
+    I774A6D74: 4e940d4dc7cf4a229ad492d9b76d494c
+    I071D0793: dd5e0cdaabc546e6b035e92c3531125d
+  f9c3b55887724232af9b2972186f56cc:
+    I774A6D74: 5535662836d94803aff630cf057cd0c9
+    I071D0793: 71318a2303534eac94efcbb1ad58016c
+  004ee17804c84a828935d573f51d0b10:
+    I774A6D74: f111b944495e44e991e5f777a18376da
+    I071D0793: 2ed33274b1844f19b4dc78abc3323b60
+  1984b09e96e6468aba42346cbf299cd5:
+    I774A6D74: c9ce76abf7d04e0fa37f6122582efc03
+    I071D0793: c033cb4e8d3a4cda907b8140b35ccf8a
+  179312748282458abf525accc6f20fe8:
+    I774A6D74: c655553d2ab744a09479139bcbe8b196
+    I071D0793: a9505c90315a4084af6e54b82c8f7f38

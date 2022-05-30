@@ -1,0 +1,19 @@
+segment_sources:
+  I774A6D74:
+    type: origin_type
+    relation: translation
+    language: en
+  I071D0793:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  612d390e2bd848bdadc673fc2c0f5a5b:
+    I774A6D74: 0793e9b68fea4c98a0dba58ae480864f
+    I071D0793: 84a18c90013d4ee789d9e7eba61419aa
+  e924fdc8cef44ec2a569026bf76b187c:
+    I774A6D74: c5ac465a28934e42926eac10dd7253a5
+    I071D0793: cd487bff2b6843349d76366ca47b6be2
+  b113384da5ca425f80c5d9a1600379c4:
+    I774A6D74: a4a3b439b5c940589358a09bf7502185
+    I071D0793: 9a6c8764d907433092204bea5d075e97

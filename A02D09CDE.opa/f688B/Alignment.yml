@@ -1,0 +1,40 @@
+segment_sources:
+  I774A6D74:
+    type: origin_type
+    relation: translation
+    language: en
+  IE92EEEFF:
+    type: origin_type
+    relation: translation
+    language: de
+  I7B47EDCC:
+    type: origin_type
+    relation: translation
+    language: es
+  I49DF9041:
+    type: origin_type
+    relation: translation
+    language: fr
+  I071D0793:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2ec9022ec87a445dbcaec12eed7c246d:
+    I774A6D74: 0620b636fada428d865b05ee7ca5f3db
+    IE92EEEFF: aa38859837354277ba822740d1be46a5
+    I7B47EDCC: ce3d163ddff34fc996b6745fe3a998ae
+    I49DF9041: 5f0eb73f3e73458eb8f07918aa25b0d2
+    I071D0793: e2b93e7fee434ff6b50dd0f8b3eee474
+  79b5bf02f48f413db3e19f984b288496:
+    I774A6D74: e1ab414d97ea43eea51f02b26f89fc8d
+    IE92EEEFF: 7445e721e00d43e588e3e8c840a59cdf
+    I7B47EDCC: 1913696d7918407bbcad1142289990b4
+    I49DF9041: c82f6494027e4d24ac9924b031a86ea7
+    I071D0793: fe817b5bd5b84b32ad7b6759404df8b9
+  d3f77580912240e2b6a06abb041a3285:
+    I774A6D74: 8e8e9a620e8945408dc80db455af2c7d
+    IE92EEEFF: ce2aeea55c5549fc8b26eb97b6bc27a5
+    I7B47EDCC: None
+    I49DF9041: e0b47e23ccaa4c56b9accb0e09566540
+    I071D0793: 4a95a8be6a234f5ba8032ce89fc00935

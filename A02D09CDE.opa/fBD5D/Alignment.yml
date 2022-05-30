@@ -1,0 +1,31 @@
+segment_sources:
+  I774A6D74:
+    type: origin_type
+    relation: translation
+    language: en
+  I071D0793:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  582d6b6e9415432a8dfe6dc2ddd486b1:
+    I774A6D74: 2bf654e4275d411db969c20eb0db66b1
+    I071D0793: 0f52eaf4de804d5385c80bfd891bf0c7
+  71001ffc67144a5d9f8ee2276baa20b8:
+    I774A6D74: d2d8ac91ef5044c4a728d95edce1d0fd
+    I071D0793: 83ab07f6a2ae44778df00db613a8fbda
+  bfcc34bae15f42999f2ed4bbf39866ab:
+    I774A6D74: a29a398bf94548d9b96d88bf51973d10
+    I071D0793: 60f74ded5caa4aaebb92d2e5b3c3b456
+  a84f686e1fe446c2a94c2ce7d2de21ef:
+    I774A6D74: dc7fc12dc0dd472cabba0557c28a5624
+    I071D0793: 4b4f99278ae94dda81428e8b710acc63
+  31f4c44b1ba44b3f8d6df68be1eb28f3:
+    I774A6D74: 1bd9c94798da40d2bc616cf076bbf910
+    I071D0793: d923ff8526c64b4ebb1682070635768e
+  a39017d2d46b406589f1026c1c0d7345:
+    I774A6D74: 8828b262d7284eb6ae206384d60aaebc
+    I071D0793: f47f4e2c33b540caa2954c696bead50d
+  964a7ea375e143d49ac3ce653e5959f9:
+    I774A6D74: 4ac0ea598a4f4eb59b9f7d22da213c6f
+    I071D0793: c444e3be3997472998c310d970d3823a
